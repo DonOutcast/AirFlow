@@ -6,3 +6,6 @@ print("Hello, World!")
 # git push origin <Название ветки>
 # git checkout -b <Название новой ветки>
 # git merge <Названте ветки которую заливаем> в текущую ветку
+#
+#
+#
